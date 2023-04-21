@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    color: floralwhite;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+}
+#lastname{
+ margin-left: 130px; 
+}
+
+
+#state-tag{
+    margin-left: 230px;
+}
+
+#email{
+margin-left: 220px;
+}
+h1{
+    text-align: center;
+}
+
+form{
+    
+    border: 5px;
+    border-style:solid;
+    border-radius: 5px;
+    border-width: 90%;
+    outline-color: ghostwhite;
+    max-width: 500px;
+    padding: 30px 20px 20px 20px;
+    margin-left: 350px;
+  
+  }
+ 
+
+
+
+#button-center{
+    display:flex;
+    justify-content: center;
+    border: none;
+    text-decoration: none;
+    min-height:30px;
+    min-width:90px ;
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+    margin:auto;
+ 
+  
+    
+   
+}
